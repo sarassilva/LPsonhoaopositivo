@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Westiva';
+    src: url('../fonts/WestivaMedium.woff2') format('woff2'),
+        url('../fonts/WestivaMedium.woff') format('woff'),
+        url('../fonts/WestivaMedium.ttf') format('truetype'),
+        url('../fonts/WestivaMedium.svg#WestivaMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Westiva';
+    src: url('../fonts/WestivaLight.woff2') format('woff2'),
+        url('../fonts/WestivaLight.woff') format('woff'),
+        url('../fonts/WestivaLight.ttf') format('truetype'),
+        url('../fonts/WestivaLight.svg#WestivaLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Westiva';
+    src: url('../fonts/WestivaBold.woff2') format('woff2'),
+        url('../fonts/WestivaBold.woff') format('woff'),
+        url('../fonts/WestivaBold.ttf') format('truetype'),
+        url('../fonts/WestivaBold.svg#WestivaBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Westiva';
+    src: url('../fonts/WestivaRegular.woff2') format('woff2'),
+        url('../fonts/WestivaRegular.woff') format('woff'),
+        url('../fonts/WestivaRegular.ttf') format('truetype'),
+        url('../fonts/WestivaRegular.svg#WestivaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
